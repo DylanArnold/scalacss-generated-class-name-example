@@ -1,0 +1,1 @@
+# scalacss-generated-class-name-example
